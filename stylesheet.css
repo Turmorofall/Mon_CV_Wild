@@ -1,5 +1,6 @@
 body{
 	background-color: rgb(104, 187, 285);
+	padding: 10px;
 } 
 header{
 	text-align: center;
@@ -26,4 +27,13 @@ li{
 footer{
 	clear: both;
 	text-align: center;
+}
+#right-box{
+	margin-left: 310px;
+}
+p{
+	margin: 0 10px 10px 15px;
+}
+h2{
+	margin-left: 10px;
 }
