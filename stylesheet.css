@@ -18,8 +18,12 @@ header{
 #experiences-box{
 	background-color: white;
 }
+.experience, .study{
+	padding: 10px;
+}
 #studies-box{
 	background-color: white;
+	margin-top: 10px;
 }
 li{
 	list-style-type: none;
@@ -32,8 +36,9 @@ footer{
 	margin-left: 310px;
 }
 p{
-	margin: 0 10px 10px 15px;
+	margin: 10px 10px 0 10px;
 }
 h2{
-	margin-left: 10px;
+	padding: 5px 0 5px 5px;
+	margin: 0;
 }
